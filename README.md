@@ -1,3 +1,4 @@
 # ProyectoRepositorio
 Trabajaremos en este repositorio para actualizar o eliminar informacion
-con hector paez y david garcia
+con Hector Paez y david Garcia Silva
+Trabajando el proyecto "Aplicacion de apoyo"
